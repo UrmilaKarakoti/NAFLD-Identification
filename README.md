@@ -13,6 +13,4 @@ Welcome to the GitHub repository for our project on **NAFLD Identification using
 
 Our project repository is organized as follows:
 
-- `data/`: This directory contains the ultrasound image dataset used for training and testing.
-- `code/`: Here, you'll find the Python scripts and notebooks that were used for image preprocessing, model development, training, and evaluation.
-- `results/`: This directory holds the outcome of our project, including model performance metrics, visualizations, and any additional analysis.
+- `NAFLD/`: Here, you'll find the Python scripts and notebooks that were used for image preprocessing, model development, training, and evaluation.
