@@ -1,4 +1,4 @@
-# NAFLD-Identification-using-Image-Processing-and-Deep-Learning
+# NAFLD-Identification
 
 Welcome to the GitHub repository for our project on **NAFLD Identification using Image Processing and Deep Learning**. In this project, we leveraged image processing techniques and deep learning neural networks to successfully identify Non-Alcoholic Fatty Liver Disease (NAFLD) using ultrasound images as our dataset. We achieved a high level of accuracy in our predictions, showcasing the potential of machine learning in medical image analysis.
 
